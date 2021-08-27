@@ -7,7 +7,6 @@ module.exports = {
         }
     },
     "globals": {
-        "Translator": "readonly",
         "PropTypes": "readonly"
     },
     "env": {
